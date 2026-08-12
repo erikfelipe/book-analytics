@@ -1,0 +1,55 @@
+isbn;titulo;autor;paginas;ano_publicacao;genero;subgenero;tipo;pais_autor;nome_serie;num_serie;formato;avaliacao;data_inicio;data_termino;preco;data_compra;tipo_aquisicao;Status
+9788581220307;Jogos Vorazes;Suzanne Collins;393;2008;Ficção Cientifica;Distopia;Ficção;Estados Unidos;Jogos Vorazes;1;Ebook;5.0;2022-10-13;2022-10-17;;;Kindle;concluido
+9788580417661;Origem;Dan Brown;432;2017;Suspense;Investigativo;Ficção;Estados Unidos;;;Ebook;5.0;2021-06-13;2021-06-27;;;Kindle;concluido
+9788576832478;Mazer Runner - Correr ou morrer;James Dashner;428;2009;Ficção Cientifica;Distopia;Ficção;Estados Unidos;Mazer Runner;1;Ebook;5.0;2020-09-20;2020-09-24;;;Kindle;concluido
+9788599296677;Ponto de Impacto;Dan Brown;400;1993;Suspense;Policial;Ficção;Estados Unidos;;;Ebook;5.0;2021-04-22;2021-05-08;;;Kindle;concluido
+9786555320749;Jogos Vorazes - Em Chamas;Suzanne Collins;416;2009;Ficção Cientifica;Distopia;Ficção;Estados Unidos;Jogos Vorazes;2;Ebook;5.0;2026-02-02;2026-02-12;;;Kindle;concluido
+9788595081536;O homem mais rico da Babilônia;George S. Clason;160;1926;Desenvolvimento Pessoal;Finanças;Não Ficção;Estados Unidos;;;Fisico;5.0;2021-04-16;2021-05-08; R$ 15,00 ;2021-03-21;Comprado;concluido
+9788551009833;O massacre da família Hope;Riley Sager;400;2018;Suspense;Thriller Psicologico;Ficção;Estados Unidos;;;Fisico;5.0;2025-12-09;2025-12-15;;;Presente;concluido
+9788501116437;A paciente silenciosa;Alex Michaelides;364;2019;Suspense;Thriller Psicologico;Ficção;Chipre;;;Ebook;5.0;2024-03-31;2024-04-10;;;Kindle;concluido
+9788532511010;Harry Potter e a Pedra Filosofal;J. K. Rowling;264;1997;Fantasia;Fantasia Fantastica;Ficção;Reino Unido;Harry Potter;1;Ebook;4.5;2024-09-12;2024-10-04;;;Kindle;concluido
+9788599577301;O Pequeno Príncipe;Antoine de Saint Exupéry;64;1943;Fantasia;Fantasia Filosofica;Ficção;França;;;Ebook;4.5;2025-08-18;2025-12-03;;;Kindle;concluido
+9786558380542;A Biblioteca da Meia-Noite;Matt Haig;308;2020;Fantasia;Fantasia Contemporanea;Ficção;Reino Unido;;;Ebook;4.5;2024-09-09;2024-09-12;;;Kindle;concluido
+9786557822517;Devoradores de estrelas;Andy Weir;424;2021;Ficção Cientifica;Espaço;Ficção;Estados Unidos;;;Ebook;4.5;2025-07-14;2025-08-11;;;Kindle;concluido
+9788551001226;Matéria escura;Blake Crouch;352;2016;Ficção Cientifica;Multiverso;Ficção;Estados Unidos;;;Fisico;4.5;2022-08-09;2022-08-31; R$ 150,00 ;2022-08-03;Comprado;concluido
+9788537810873;Um Estudo em Vermelho;Arthur Conan Doyle;169;1887;Suspense;Policial;Ficção;Reino Unido;;;Ebook;4.5;2021-05-09;2021-05-12;;;Kindle;concluido
+9788535931761;Uma mulher no escuro;Raphael Montes;256;2019;Suspense;Thriller Psicologico;Ficção;Brasil;;;Ebook;4.5;2025-08-12;2025-08-14;;;Kindle;concluido
+9788543810263;Suicidas;Raphael Montes;484;2012;Suspense;Thriller Psicologico;Ficção;Brasil;;;Ebook;4.5;2024-09-02;2024-09-08;;;Kindle;concluido
+9788581052984;Joyland;Stephen King;240;2013;Suspense;Policial;Ficção;Estados Unidos;;;Ebook;4.5;2026-01-06;2026-01-12;;;Kindle;concluido
+9788576573999;Flores para Algernon;Daniel Keyes;311;1966;Ficção Cientifica;Drama;Ficção;Estados Unidos;;;Ebook;4.0;2025-04-17;2025-04-19;;;Kindle;concluido
+9788580579000;Lugar nenhum;Neil Gaiman;100;1996;Fantasia;Fantasia Urbana;Ficção;Reino Unido;;;Ebook;4.0;2021-05-14;2021-06-03;;;Kindle;concluido
+9788576832997;Mazer Runner - Prova de fogo;James Dashner;400;2010;Ficção Cientifica;Distopia;Ficção;Estados Unidos;Mazer Runner;2;Ebook;4.0;2020-09-25;2020-10-05;;;Kindle;concluido
+9788576833888;Mazer Runner - A cura mortal;James Dashner;368;2011;Ficção Cientifica;Distopia;Ficção;Estados Unidos;Mazer Runner;3;Ebook;4.0;2021-05-15;2021-05-16;;;Kindle;concluido
+9786555613056;Viagem ao centro da Terra;Júlio Verne;304;1864;Ficção Cientifica;Aventura Cientifica;Ficção;França;;;Fisico;4.0;2017-06-01;2017-12-31; R$ 65,00 ;2017-05-01;Comprado;concluido
+9786587817484;Vinte Mil Léguas Submarinas;Júlio Verne;310;1870;Ficção Cientifica;Aventura Cientifica;Ficção;França;;;Fisico;4.0;2016-06-01;2016-12-31; R$ 62,00 ;2016-05-01;Comprado;concluido
+9788551005378;Recursão;Blake Crouch;320;2019;Ficção Cientifica;Viagem no tempo;Ficção;Estados Unidos;;;Ebook;4.0;2022-10-18;2022-11-07;;;Kindle;concluido
+9788576571605;Androides sonham com ovelhas elétricas?;Philip K. Dick;272;1968;Ficção Cientifica;Distopia;Ficção;Estados Unidos;;;Fisico;4.0;2019-01-05;2019-02-01; R$ 50,00 ;2018-12-01;Comprado;concluido
+9788575422397;Os segredos da mente milionária;T. Harv Eker;176;2005;Desenvolvimento Pessoal;Finanças;Não Ficção;Canadá;;;Ebook;4.0;2021-05-09;2021-05-12;;;Kindle;concluido
+9788550801483;Pai Rico, Pai Pobre;Robert T. Kiyosaki;192;1997;Desenvolvimento Pessoal;Finanças;Não Ficção;Estados Unidos;;;Ebook;4.0;2020-12-08;2021-01-08;;;Kindle;concluido
+9788535909555;A revolução dos bichos;George Orwell;157;1945;Ficção;Sátira ;Ficção;Estados Unidos;;;Fisico;4.0;2020-04-16;2020-04-23; R$ 25,00 ;2020-04-01;Comprado;concluido
+9786555655070;A Empregada;Freida McFadden;381;2022;Suspense;Thriller Psicologico;Ficção;Estados Unidos;A Empregada;1;Ebook;4.0;2025-12-16;2025-12-22;;;Kindle;concluido
+9788581053042;O Vilarejo;Raphael Montes;96;2015;Terror;Thriller Psicologico;Ficção;Brasil;;;Ebook;4.0;2025-12-15;2025-12-15;;;Kindle;concluido
+9788535937473;Uma família feliz;Raphael Montes;367;2023;Suspense;Thriller Psicologico;Ficção;Brasil;;;Ebook;4.0;2025-04-02;2025-04-03;;;Kindle;concluido
+B084Q6YFSS;Verity;Colleen Hoover;307;2018;Suspense;Thriller Psicologico;Ficção;Estados Unidos;;;Ebook;4.0;2024-04-11;2024-04-24;;;Kindle;concluido
+9788551006757;Coraline;Neil Gaiman;224;2002;Fantasia;Fantasia Sombria;Ficção;Reino Unido;;;Ebook;3.5;2025-12-16;2025-12-16;;;Kindle;concluido
+B0DLT5MXTN;Noites Brancas;Fyodor Dostoevsky;87;1848;Romance;Romance Psicologico;Ficção;Russia;;;Ebook;3.5;2025-07-09;2025-07-15;;;Kindle;concluido
+9788535925647;A entrega;Dennis Lehane;184;1993;Suspense;Policial;Ficção;Estados Unidos;;;Ebook;3.5;2021-06-06;2021-06-10;;;Kindle;concluido
+9788539006397;Vale tudo;Nelson Motta;392;1987;Biografia;Biografia Musical;Não Ficção;Brasil;;;Fisico;3.5;2018-01-01;2018-02-19;;;Presente;concluido
+9788535924015;Dias Perfeitos;Raphael Montes;249;2014;Suspense;Thriller Psicologico;Ficção;Brasil;;;Ebook;3.5;2025-07-09;2025-07-11;;;Kindle;concluido
+9786559212811;Jantar Secreto;Raphael Montes;368;2016;Suspense;Thriller Psicologico;Ficção;Brasil;;;Ebook;3.5;2024-10-04;2024-10-11;;;Kindle;concluido
+9788580863116;Sobre meninos e lobos - Mystic River;Dennis Lehane;344;2001;Drama;Policial;Ficção;Estados Unidos;;;Ebook;3.5;2024-07-18;2024-08-20;;;Kindle;concluido
+9788501923400;Nunca minta;Freida McFadden;283;2022;Suspense;Thriller Psicologico;Ficção;Estados Unidos;;;Ebook;3.5;2026-01-13;2026-01-14;;;Kindle;concluido
+9788576572039;Eu, Robô;Isaac Asimov;277;1950;Ficção Cientifica;Robotica;Ficção;Estados Unidos;;;Fisico;3.0;2018-02-02;2018-04-05; R$ 50,00 ;2018-01-15;Comprado;concluido
+858086139X;A metamorfose;Franz Kafka;76;1915;Ficção;Existencialismo;Ficção;República Tcheca;;;Ebook;3.0;2025-07-16;2025-08-08;;;Kindle;concluido
+B0FSK1RFV7;Misery;Stephen King;328;1087;Terror;Thriller Psicologico;Ficção;Estados Unidos;;;Ebook;3.0;2025-04-03;2025-04-16;;;Kindle;concluido
+9788551011928;Nós já moramos aqui;Marcus Kliewer;327;2024;Terror;Thriller Psicologico;Ficção;Estados Unidos;;;Ebook;3.0;2026-01-02;2026-01-06;;;Kindle;concluido
+9788525406613;Frankenstein;Mary Shelley;252;1818;Terror;Terror Gótico;Ficção;Reino Unido;;;Ebook;2.5;2025-11-17;2025-12-08;;;Kindle;concluido
+9788599296516;Não conte a ninguém;Harlan Coben;256;2001;Suspense;Investigativo;Ficção;Estados Unidos;;;Ebook;4.5;2026-01-27;2026-01-30;;;Kindle;concluido
+9786555604627;Desenhos ocultos;Jason Rekulak;384;2022;Suspense;Suspense sobrenatural;Ficção;Estados Unidos;;;Ebook;4.0;2026-02-23;2026-02-26;;;Kindle;concluido
+9788576573166;Guerra Do Velho;John Scalzi;356;2005;Ficção Cientifica;Militar;Ficção;Estados Unidos;;;Fisico;3.5;2026-04-20;2026-05-15; R$ 72,10 ;2026-03-18;Comprado;concluido
+9788556510853;O instituto;Stephen King;544;2019;Terror;Suspense sobrenatural;Ficção;Estados Unidos;;;Fisico;5.0;2026-03-19;2026-03-27; R$ 80,00 ;2026-02-01;Comprado;concluido
+9786556220475;A última casa da rua Needless;Catriona Ward;394;2021;Terror;Terror psicologico;Ficção;Reino Unido;;;Ebook;1.5;2026-03-12;2026-03-17;;;Kindle;concluido
+9999105328564;O Hobbit;J.R.R. Tolkien;345;1937;Fantasia;Fantasia Epica;Ficção;Reino Unido;;;Fisico;4.5;2026-04-07;2026-04-17; R$ 43,50 ;2026-03-11;Comprado;concluido
+9788576838784;Bunker: diário da agonia;Kevin Brooks;272;2013;Suspense;Thriller psicologico;Ficção;Reino Unido;;;Ebook;2.5;2026-06-30;2026-07-01;;;Kindle;concluido
+9786555984613;Casamento Perfeito;Jeneva Rose;320;2020;Suspense;Thriller psicologico;Ficção;Estados Unidos;;;Fisico;3.0;2026-03-30;2026-04-07;;;Emprestado;concluido
+9786550474256;Mindset Milionário ;Don Green;176;2024;Desenvolvimento Pessoal;Finanças;Não Ficção;Estados Unidos;;;Fisico;3.5;2026-07-27;2026-07-31;;;Emprestado;concluido
