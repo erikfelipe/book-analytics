@@ -96,7 +96,7 @@ As avaliações apresentam pouca relação com características físicas dos liv
 
 Dashboard desenvolvido em Power BI com os principais indicadores e visualizações obtidos durante a análise.
 
-*Em desenvolvimento.*
+<img width="1111" height="625" alt="image" src="https://github.com/user-attachments/assets/af7d043e-eac7-4f40-aeb2-54130fe68820" />
 
 ## 📓 Análise completa
 
@@ -123,6 +123,6 @@ book-analytics/
 │   └── book_analytics.ipynb
 │
 ├── dashboard/
-│   └── ...
+│   └── book_analytics.pbix
 │
 └── README.md
