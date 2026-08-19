@@ -104,6 +104,8 @@ A análise exploratória, tratamento dos dados e desenvolvimento das métricas e
 
 [Notebook de análise](https://github.com/erikfelipe/book-analytics/blob/main/notebooks/book_analytics.ipynb)
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/erikfelipe/book-analytics/blob/main/book-analytics.ipynb)
+
 ## 🛠️ Tecnologias
 
 - Python
