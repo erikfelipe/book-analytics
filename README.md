@@ -70,14 +70,27 @@ Atualmente, o conjunto de dados contém **54 livros concluídos**.
 
 ## 💡 Principais Insights
 
-- O volume e o ritmo de leitura apresentaram crescimento nos anos mais recentes, especialmente a partir de 2024.
-- A mediana para concluir um livro foi de **8,5 dias**, enquanto a média foi de **22,2 dias**, indicando a influência de livros com períodos de leitura mais longos.
-- O tamanho do livro apresentou pouca relação com o tempo necessário para sua conclusão, com correlação de **-0,07**.
-- O formato digital apresentou velocidade de leitura superior ao formato físico, com medianas de **43,1 páginas/dia** e **14,5 páginas/dia**, respectivamente.
-- As avaliações apresentaram média geral de **3,98/5**.
-- Fantasia apresentou a maior avaliação média entre os gêneros com maior quantidade de registros, com **4,25/5**, enquanto Terror apresentou **3,17/5**.
-- A avaliação média apresentou queda nos anos mais recentes, passando de **4,21 em 2024 para 3,69 em 2026**.
-- A mudança no perfil dos gêneros contribuiu para a queda das avaliações em 2025, mas não explica a redução observada em 2026.
+### Crescimento do ritmo de leitura
+<img width="842" height="470" alt="image" src="https://github.com/user-attachments/assets/90d55810-7546-4d2b-991a-aafbe61de132" />
+
+A quantidade de livros concluídos varia consideravelmente ao longo dos meses. Abril apresentou o maior volume de leituras, com 9 livros concluídos, seguido por dezembro, com 8. Novembro apresentou o menor volume, com apenas 1 livro. Apesar das diferenças observadas, não é possível identificar um padrão sazonal claro apenas com os dados disponíveis.
+
+### O formato influencia o ritmo
+<img width="842" height="470" alt="image" src="https://github.com/user-attachments/assets/24bf0161-d01c-4b84-9c96-5bff031e2994" />
+
+Na amostra analisada, o formato digital apresentou uma velocidade de leitura significativamente maior que o formato físico. Entretanto, a diferença deve ser interpretada como uma associação observada nos dados, já que outros fatores podem influenciar o ritmo de leitura.
+
+### Avaliações
+<img width="833" height="592" alt="image" src="https://github.com/user-attachments/assets/7c153f06-2e7f-4dc9-95da-58e7ffc4288f" />
+
+A avaliação média dos livros foi de 3,98/5. Entre os gêneros com maior quantidade de livros, Fantasia apresentou a maior avaliação média (4,25), seguida por Ficção Científica (4,18) e Suspense (4,11). Terror apresentou a menor média entre esses gêneros, com 3,17.
+
+Os gêneros com poucos registros devem ser interpretados com cautela, pois uma quantidade reduzida de livros não é suficiente para representar uma preferência consolidada.
+
+### Queda nas avaliações recentes
+<img width="833" height="471" alt="image" src="https://github.com/user-attachments/assets/6ab8383a-f8e1-4862-9476-c3ab9c0144a0" />
+
+As avaliações apresentam pouca relação com características físicas dos livros, como tamanho e formato, sendo mais influenciadas pelo gênero e pelo período de leitura. Embora a mudança no perfil dos gêneros tenha contribuído para a queda das avaliações em 2025, a redução observada em 2026 permanece mesmo após considerar essa mudança, indicando uma alteração mais recente no padrão de avaliação.
 
 ## 📊 Dashboard
 
