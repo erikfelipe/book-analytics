@@ -127,7 +127,7 @@ A análise exploratória, tratamento dos dados e desenvolvimento das métricas e
 book-analytics/
 │
 ├── data/
-│   └── livros.csv
+│   └── lidos.csv
 │
 ├── notebooks/
 │   └── book_analytics.ipynb
