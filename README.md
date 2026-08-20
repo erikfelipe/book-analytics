@@ -29,7 +29,7 @@ O dataset contém informações sobre os livros lidos, incluindo:
 - Informações sobre séries
 - Informações de aquisição
 
-Atualmente, o conjunto de dados contém **54 livros concluídos**.
+Atualmente, o conjunto de dados contém **54 livros concluídos** (Até o dia 20/08/2026).
 
 ## 🔎 Análises
 
