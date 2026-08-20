@@ -68,14 +68,22 @@ Atualmente, o conjunto de dados contém **54 livros concluídos**.
 - Evolução das avaliações ao longo dos anos
 - Análise da influência da mudança no perfil de gêneros sobre as avaliações
 
+## Metodologia
+
+- Tratamento e padronização dos dados utilizando Pandas
+- Criação de métricas relacionadas a duração da leitura, páginas/dia e avaliações
+- Análise exploratória utilizando Python e Matplotlib
+- Construção do modelo analítico e dashboard no Power BI
+- Utilização de medidas DAX para os principais indicadores
+
 ## 💡 Principais Insights
 
 ### Crescimento do ritmo de leitura
 <img width="842" height="470" alt="image" src="https://github.com/user-attachments/assets/90d55810-7546-4d2b-991a-aafbe61de132" />
 
-A quantidade de livros concluídos varia consideravelmente ao longo dos meses. Abril apresentou o maior volume de leituras, com 9 livros concluídos, seguido por dezembro, com 8. Novembro apresentou o menor volume, com apenas 1 livro. Apesar das diferenças observadas, não é possível identificar um padrão sazonal claro apenas com os dados disponíveis.
+A velocidade média de leitura apresentou queda entre 2020 e 2022, seguida de uma recuperação a partir de 2024. O maior aumento ocorreu em 2025, quando a média passou de 38,4 para 68,1 páginas por dia. Em 2026, o ritmo permaneceu elevado, com média de 62,8 páginas por dia. A mediana apresenta comportamento semelhante, reforçando que o aumento observado nos anos mais recentes não está concentrado apenas em alguns livros.
 
-### O formato influencia o ritmo
+### Diferenças de ritmo entre formatos
 <img width="842" height="470" alt="image" src="https://github.com/user-attachments/assets/24bf0161-d01c-4b84-9c96-5bff031e2994" />
 
 Na amostra analisada, o formato digital apresentou uma velocidade de leitura significativamente maior que o formato físico. Entretanto, a diferença deve ser interpretada como uma associação observada nos dados, já que outros fatores podem influenciar o ritmo de leitura.
@@ -94,9 +102,9 @@ As avaliações apresentam pouca relação com características físicas dos liv
 
 ## 📊 Dashboard
 
-Dashboard desenvolvido em Power BI com os principais indicadores e visualizações obtidos durante a análise.
-
 <img width="1111" height="625" alt="image" src="https://github.com/user-attachments/assets/af7d043e-eac7-4f40-aeb2-54130fe68820" />
+
+Dashboard interativo desenvolvido em Power BI a partir das métricas e análises realizadas no notebook.
 
 ## 📓 Análise completa
 
