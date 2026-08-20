@@ -102,8 +102,7 @@ As avaliações apresentam pouca relação com características físicas dos liv
 
 ## 📊 Dashboard
 
-Acessar dashboard interativo
-https://app.powerbi.com/view?r=eyJrIjoiMDgyYzBjZmQtMTQ3YS00YWU3LWExMmMtMTc1ZTI3NmNmODBhIiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9
+🔗[Acessar dashboard interativo](https://app.powerbi.com/view?r=eyJrIjoiMDgyYzBjZmQtMTQ3YS00YWU3LWExMmMtMTc1ZTI3NmNmODBhIiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9)
 
 <img width="1111" height="625" alt="image" src="https://github.com/user-attachments/assets/af7d043e-eac7-4f40-aeb2-54130fe68820" />
 
